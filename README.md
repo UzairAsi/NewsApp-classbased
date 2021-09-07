@@ -1,7 +1,7 @@
 # Getting Started News App
 
-You have to specify an apikey from newsapi.org
-specify the in App.js(Line No.9)
+You have to specify an Apikey from newsapi.org
+specify the in Apikey App.js(Line No.9)
 
 ### `npm start`
 
